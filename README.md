@@ -1,5 +1,4 @@
-<h2 align="left">Hi 👋! My name is Kyoo Min Lee and I'm a Back-end Developer from South Korea!</h2>
-
+![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=Kyoo0115's%20GitHub%20&height=150&fontSize=60&desc=Welcome!&descAlignY=75&descAlign=60)
 <div style="background-color: #282a36; padding: 10px; border-radius: 5px;">
   <img src="https://github-readme-stats.vercel.app/api?username=kyoo0115&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kyoo0115&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
