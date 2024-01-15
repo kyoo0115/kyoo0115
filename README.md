@@ -26,7 +26,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
     <img width="12" />
   </div>
-</div>
+</div><br>
 
 <div style="background-color: #282a36; padding: 10px; border-radius: 5px;">
   <div align="left">
