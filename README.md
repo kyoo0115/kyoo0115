@@ -1,5 +1,8 @@
 ![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=Kyoo0115's%20GitHub%20&height=150&fontSize=60&desc=Welcome!&descAlignY=75&descAlign=60)
 
+
+<p center = "center">안녕하세요! 컴퓨터 과학 전공한 이규민이라고 합니다!</p>
+
 <div align="center" style="text-align: center;">
   <div style="background-color: #282a36; padding: 10px; border-radius: 5px;">
     <img src="https://github-readme-stats.vercel.app/api?username=kyoo0115&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
