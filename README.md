@@ -42,6 +42,6 @@
 
   <br>
 </div>
-  <div align="center">
+<div align="center">
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kyoo0115)](https://solved.ac/kyoo0115)\
-  </div>
+</div>
