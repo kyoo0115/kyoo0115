@@ -26,7 +26,18 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
     <img width="12" />
   </div>
-</div><br>
+</div>
+
+<br>
+
+<p align="center">
+   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2kyoo0115%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+<br><br>
+<Strong>📧Email📧</Strong><br>internetkyoomin@gmail.com<br>
+
+</p>
+
+<br>
 
 <div style="background-color: #282a36; padding: 10px; border-radius: 5px;">
   <div align="left">
