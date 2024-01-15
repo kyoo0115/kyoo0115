@@ -44,13 +44,8 @@
 
   <br>
 
-  <div align="center">
-    <p><strong>Additional Language Skills:</strong></p>
-    <ul>
-      <li>Korean</li>
-      <li>English</li>
-      <li>Filipino</li>
-    </ul>
+  <div align="center" style="background-color: #282a36; padding: 10px; border-radius: 5px;">
+    <p><strong>Additional Language Skills:</strong> 🌐 Fluent in Korean, English, and Filipino</p>
   </div>
 
 </div>
