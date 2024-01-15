@@ -42,5 +42,6 @@
 
   <div align="center">
     [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kyoo0115)](https://solved.ac/kyoo0115/)
+    [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=chltmdwns96)](https://solved.ac/chltmdwns96/)
   </div>
 </div>
