@@ -44,7 +44,7 @@
 
   <br>
 
-  <div align="center" style="background-color: #282a36; padding: 10px; border-radius: 5px;">
+  <div align="center">
     <p><strong>Additional Language Skills:</strong></p>
     <ul>
       <li>Korean</li>
