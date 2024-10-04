@@ -1,6 +1,6 @@
 ![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=Kyoo0115's%20GitHub%20&height=150&fontSize=60&desc=Welcome!&descAlignY=75&descAlign=60)
 
-<p align="center">Hello! I'm a passionate **Backend Developer** specializing in **Java Spring Framework**. I enjoy building robust and scalable backend systems, optimizing performance, and visualizing algorithms.</p>
+<p align="center">Hello! I'm a passionate <b>Backend Developer</b> specializing in <b>Java Spring Framework</b>. I enjoy building robust and scalable backend systems, optimizing performance, and visualizing algorithms.</p>
 
 <div align="center" style="text-align: center;">
   <div style="background-color: #282a36; padding: 10px; border-radius: 5px;">
