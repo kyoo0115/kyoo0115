@@ -1,52 +1,52 @@
 ![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=Kyoo0115's%20GitHub%20&height=150&fontSize=60&desc=Welcome!&descAlignY=75&descAlign=60)
 
-<p align="center">Hello! I'm a passionate <b>Backend Developer</b> specializing in <b>Java Spring Framework</b>. I enjoy building robust and scalable backend systems, optimizing performance, and visualizing algorithms.</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Backend_Developer-Java_Spring_Framework-4c7fdb?style=flat-square&logo=java&logoColor=white" alt="Backend Developer">
+  <img src="https://img.shields.io/badge/-Passionate_about_Algorithms-ef5350?style=flat-square&logo=github&logoColor=white" alt="Passionate about Algorithms">
+</p>
 
-<div align="center" style="text-align: center;">
-  <div style="background-color: #282a36; padding: 10px; border-radius: 5px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=kyoo0115&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kyoo0115&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+<p align="center">Hello! I'm a passionate <b>Backend Developer</b> specializing in <b>Java Spring Framework</b>. I enjoy building robust and scalable backend systems, optimizing performance, and visualizing algorithms. Welcome to my GitHub profile! 🚀</p>
+
+<div align="center">
+  <div style="background-color: #282a36; padding: 10px; border-radius: 8px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=kyoo0115&hide_title=false&show_icons=true&include_all_commits=true&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=kyoo0115&theme=radical" height="150" alt="GitHub Streaks" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kyoo0115&locale=en&layout=compact&langs_count=5&theme=dracula&hide_border=false" height="150" alt="Top Languages" />
   </div>
+</div>
 
-  <br>
+<br>
 
-  <p align="center">
-    <Strong>⚒️Main Stack⚒️</Strong><br>
-  </p>
+<p align="center">
+  <strong>⚒️ Main Stack ⚒️</strong>
+</p>
 
- <div>
+<div align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/mariaDB-003545?style=for-the-badge&logo=mariaDB&logoColor=white">
-  <img src="https://img.shields.io/badge/sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white">
   <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
-  <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
-  <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/mongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
 </div>
 
-  <br>
-  <br>
+<br>
+<br>
 
-  <p align="center">
-    <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkyoo0115%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
-    <br><br>
-    <Strong>📧Email📧</Strong><br>kyoomin.dev@gmail.com<br>
-  </p>
+<p align="center">
+  <a href="https://hits.seeyoufarm.com">
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkyoo0115%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
+  </a>
+  <br><br>
+  <strong>📧 Email 📧</strong><br>kyoomin.dev@gmail.com
+</p>
 
-  <br>
-
-  <div align="center" style="background-color: #282a36; padding: 10px; border-radius: 5px;">
-    <p><strong>Additional Language Skills:</strong> 🌐 Fluent in Korean, English, and Filipino</p>
-  </div>
-
+<div align="center" style="background-color: #44475a; padding: 15px; border-radius: 8px; margin: 20px 0;">
+  <p style="font-size: 1.1em;"><strong>Additional Language Skills:</strong> 🌐 Fluent in Korean, English, and Filipino</p>
 </div>
-<div align="center">
-  
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kyoo0115)](https://solved.ac/kyoo0115)
-![](https://leetcard.jacoblin.cool/internetkyoomin?width=470&height=200)
 
-</div>
+<br>
