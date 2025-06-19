@@ -10,7 +10,7 @@
 <div align="center">
   <div style="background-color: #282a36; padding: 10px; border-radius: 8px;">
     <img src="https://github-readme-stats.vercel.app/api?username=kyoo0115&hide_title=false&show_icons=true&include_all_commits=true&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=kyoo0115&theme=radical" height="150" alt="GitHub Streaks" />
+    <img src="https://streak-stats.demolab.com?user=kyoo0115&theme=radical" height="150" alt="GitHub Streaks" />  
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kyoo0115&locale=en&layout=compact&langs_count=5&theme=dracula&hide_border=false" height="150" alt="Top Languages" />
   </div>
 </div>
