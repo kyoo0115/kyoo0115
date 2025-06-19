@@ -44,9 +44,6 @@
   <br><br>
   <strong>📧 Email 📧</strong><br>kyoomin.dev@gmail.com
 </p>
-  <br><br>
-  <strong>📧 Email 📧</strong><br>kyoomin.dev@gmail.com
-</p>
 
 <div align="center" style="background-color: #44475a; padding: 15px; border-radius: 8px; margin: 20px 0;">
   <p style="font-size: 1.1em;"><strong>Additional Language Skills:</strong> 🌐 Fluent in Korean, English, and Japanese</p>
