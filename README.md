@@ -38,15 +38,15 @@
 <br>
 
 <p align="center">
-  <a href="https://hits.seeyoufarm.com">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkyoo0115%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
-  </a>
+  <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kyoo0115&label=Profile%20Views&color=0e75b6&style=flat" alt="kyoo0115" />
+</p>
   <br><br>
   <strong>📧 Email 📧</strong><br>kyoomin.dev@gmail.com
 </p>
 
 <div align="center" style="background-color: #44475a; padding: 15px; border-radius: 8px; margin: 20px 0;">
-  <p style="font-size: 1.1em;"><strong>Additional Language Skills:</strong> 🌐 Fluent in Korean, English, and Filipino</p>
+  <p style="font-size: 1.1em;"><strong>Additional Language Skills:</strong> 🌐 Fluent in Korean, English, and Japanese</p>
 </div>
 
 <br>
