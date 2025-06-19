@@ -38,8 +38,11 @@
 <br>
 
 <p align="center">
-  <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kyoo0115&label=Profile%20Views&color=0e75b6&style=flat" alt="kyoo0115" />
+  <a href="https://hits.seeyoufarm.com">
+      <img src="https://komarev.com/ghpvc/?username=kyoo0115&label=Profile%20Views&color=0e75b6&style=flat" alt="kyoo0115" />
+  </a>
+  <br><br>
+  <strong>📧 Email 📧</strong><br>kyoomin.dev@gmail.com
 </p>
   <br><br>
   <strong>📧 Email 📧</strong><br>kyoomin.dev@gmail.com
