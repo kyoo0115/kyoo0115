@@ -13,7 +13,7 @@ Building backend systems with **Java & Spring**.
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
 
-<br><br>
+<br>
 
 💻 Backend · 🧩 Algorithms · 🏗️ System Design
 
@@ -21,7 +21,7 @@ Building backend systems with **Java & Spring**.
 
 🇰🇷 Korean · 🇺🇸 English · 🇯🇵 Japanese
 
-<br><br>
+<br>
 
 📧 **[kyoomin.dev@gmail.com](mailto:kyoomin.dev@gmail.com)**
 
