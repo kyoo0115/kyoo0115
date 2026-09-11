@@ -1,16 +1,8 @@
-<div align="center">
-
 # Kyoo0115
 
 **Java Backend Developer**
 
-Java · Spring Boot · PostgreSQL · Algorithms · System Design
-
-<br>
-
 📧 [kyoomin.dev@gmail.com](mailto:kyoomin.dev@gmail.com)
-
-</div>
 
 ---
 
