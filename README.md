@@ -1,4 +1,4 @@
-# Kyoo0115
+# 이규민 | Kyoomin Lee
 
 **Java Backend Developer**
 
